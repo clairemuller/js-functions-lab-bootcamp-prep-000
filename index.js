@@ -1,16 +1,16 @@
 // write your code below!
 
 
-const happyHolidays = () => {
+var happyHolidays = () => {
   return "Happy holidays!";
 };
-const happyHolidaysTo = (name) => {
+var happyHolidaysTo = (name) => {
   return `Happy holidays, ${name}!`;
 };
-const happyHolidayTo = (holiday, name) => {
+var happyHolidayTo = (holiday, name) => {
   return `Happy ${holiday}, ${name}!`;
 };
-const holidayCountdown = (holiday, days) => {
+var holidayCountdown = (holiday, days) => {
   return `It's ${days} days until ${holiday}!`;
 };
 
