@@ -1,9 +1,5 @@
 // write your code below!
 
-let holiday = 'Christmas';
-let name = 'Claire';
-let days = 10;
-
 const happyHolidays = () => {
   return "Happy holidays!";
 }
