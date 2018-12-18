@@ -1,6 +1,6 @@
 // write your code below!
 
-/*
+
 const happyHolidays = () => {
   return "Happy holidays!";
 }
@@ -13,8 +13,10 @@ const happyHolidayTo = (holiday, name) => {
 const holidayCountdown = (holiday, days) => {
   return `It's ${days} days until ${holiday}!`;
 }
-*/
 
+
+
+/*
 function happyHolidays() {
   return "Happy holidays!";
 }
@@ -30,4 +32,4 @@ function happyHolidayTo(holiday, name) {
 function holidayCountdown(holiday, days) {
   return `It's ${days} days until ${holiday}!`;
 }
-
+*/
