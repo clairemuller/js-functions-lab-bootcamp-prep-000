@@ -2,7 +2,7 @@
 
 let holiday = 'Christmas';
 let name = 'Claire';
-let 
+let days = 10;
 
 const happyHolidays = () => {
   return "Happy holidays!";
