@@ -7,7 +7,7 @@ const happyHolidays = () => {
 */
 
 function happyHolidays() {
-    return "Happy holidays!";
+  return "Happy holidays!";
 }
 
 const happyHolidaysTo = (name) => {
