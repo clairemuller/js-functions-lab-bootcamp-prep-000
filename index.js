@@ -1,5 +1,5 @@
 // write your code below!
 
-const happyHolidays () {
+const happyHolidays = () => {
   
 }
