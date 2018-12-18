@@ -4,17 +4,16 @@
 const happyHolidays = () => {
   return "Happy holidays!";
 }
+const happyHolidaysTo = (name) => {
+  return `Happy holidays, ${name}!`;
+}
+
 */
 
 function happyHolidays() {
   return "Happy holidays!";
 }
 
-/*
-const happyHolidaysTo = (name) => {
-  return `Happy holidays, ${name}!`;
-}
-*/
 
 function happyHolidaysTo(name) {
   return `Happy holidays, ${name}!`;
