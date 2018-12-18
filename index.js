@@ -6,7 +6,9 @@ const happyHolidays = () => {
 }
 */
 
-function happyHolidays()
+function happyHolidays() {
+    return "Happy holidays!";
+}
 
 const happyHolidaysTo = (name) => {
   return `Happy holidays, ${name}!`;
