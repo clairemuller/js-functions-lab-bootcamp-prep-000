@@ -1,6 +1,8 @@
 // write your code below!
 
-
+let holiday = 'Christmas';
+let name = 'Claire';
+let 
 
 const happyHolidays = () => {
   return "Happy holidays!";
